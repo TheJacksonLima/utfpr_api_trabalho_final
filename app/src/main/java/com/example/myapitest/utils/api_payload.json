@@ -1,0 +1,202 @@
+[
+  {
+    "id": "001",
+    "imageUrl": "https://www.example.com/nissan_skyline_r34.jpg",
+    "year": "1999/1999",
+    "name": "Nissan Skyline GT-R (R34)",
+    "licence": "ABC-1234",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "002",
+    "imageUrl": "https://www.example.com/mitsubishi_eclipse.jpg",
+    "year": "1999/1999",
+    "name": "Mitsubishi Eclipse",
+    "licence": "DEF-5678",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "003",
+    "imageUrl": "https://www.example.com/nissan_350z.jpg",
+    "year": "2003/2003",
+    "name": "Nissan 350Z",
+    "licence": "GHI-9101",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "004",
+    "imageUrl": "https://www.example.com/toyota_supra.jpg",
+    "year": "1998/1998",
+    "name": "Toyota Supra",
+    "licence": "JKL-2345",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "005",
+    "imageUrl": "https://www.example.com/mitsubishi_lancer_evo.jpg",
+    "year": "2004/2004",
+    "name": "Mitsubishi Lancer Evolution VIII",
+    "licence": "MNO-6789",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "006",
+    "imageUrl": "https://www.example.com/honda_civic.jpg",
+    "year": "2000/2000",
+    "name": "Honda Civic",
+    "licence": "PQR-2345",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "007",
+    "imageUrl": "https://www.example.com/mazda_rx8.jpg",
+    "year": "2003/2003",
+    "name": "Mazda RX-8",
+    "licence": "STU-6789",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "008",
+    "imageUrl": "https://www.example.com/honda_s2000.jpg",
+    "year": "2003/2003",
+    "name": "Honda S2000",
+    "licence": "VWX-3456",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "009",
+    "imageUrl": "https://www.example.com/acura_rsx.jpg",
+    "year": "2002/2002",
+    "name": "Acura RSX",
+    "licence": "XYZ-1234",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "010",
+    "imageUrl": "https://www.example.com/nissan_sentra.jpg",
+    "year": "2004/2004",
+    "name": "Nissan Sentra SE-R Spec V",
+    "licence": "ABC-5678",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "011",
+    "imageUrl": "https://www.example.com/ford_mustang_gt.jpg",
+    "year": "2003/2003",
+    "name": "Ford Mustang GT",
+    "licence": "DEF-1234",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "012",
+    "imageUrl": "https://www.example.com/mitsubishi_3000gt.jpg",
+    "year": "1999/1999",
+    "name": "Mitsubishi 3000GT",
+    "licence": "GHI-5678",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "013",
+    "imageUrl": "https://www.example.com/toyota_celica.jpg",
+    "year": "2003/2003",
+    "name": "Toyota Celica",
+    "licence": "JKL-2345",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "014",
+    "imageUrl": "https://www.example.com/volkswagen_golf_gt.jpg",
+    "year": "2003/2003",
+    "name": "Volkswagen Golf GTI",
+    "licence": "MNO-6789",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "015",
+    "imageUrl": "https://www.example.com/peugeot_206.jpg",
+    "year": "2003/2003",
+    "name": "Peugeot 206",
+    "licence": "PQR-3456",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "016",
+    "imageUrl": "https://www.example.com/ford_focus.jpg",
+    "year": "2004/2004",
+    "name": "Ford Focus ZX3",
+    "licence": "STU-1234",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "017",
+    "imageUrl": "https://www.example.com/cadillac_escalade.jpg",
+    "year": "2003/2003",
+    "name": "Cadillac Escalade",
+    "licence": "VWX-6789",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "018",
+    "imageUrl": "https://www.example.com/toyota_corolla.jpg",
+    "year": "2003/2003",
+    "name": "Toyota Corolla",
+    "licence": "XYZ-2345",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "019",
+    "imageUrl": "https://www.example.com/audi_a3.jpg",
+    "year": "2003/2003",
+    "name": "Audi A3",
+    "licence": "ABC-4321",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "020",
+    "imageUrl": "https://www.example.com/infinity_g35.jpg",
+    "year": "2003/2003",
+    "name": "Infiniti G35",
+    "licence": "DEF-1234",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "021",
+    "imageUrl": "https://www.example.com/mazda_mx5.jpg",
+    "year": "2003/2003",
+    "name": "Mazda MX-5",
+    "licence": "GHI-2345",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "022",
+    "imageUrl": "https://www.example.com/lincoln_navigator.jpg",
+    "year": "2003/2003",
+    "name": "Lincoln Navigator",
+    "licence": "JKL-5678",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "023",
+    "imageUrl": "https://www.example.com/mitsubishi_galant.jpg",
+    "year": "2003/2003",
+    "name": "Mitsubishi Galant",
+    "licence": "MNO-3456",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "024",
+    "imageUrl": "https://www.example.com/pontiac_gto.jpg",
+    "year": "2004/2004",
+    "name": "Pontiac GTO",
+    "licence": "PQR-6789",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "025",
+    "imageUrl": "https://www.example.com/mazda_miata.jpg",
+    "year": "2003/2003",
+    "name": "Mazda Miata",
+    "licence": "STU-1234",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  }
+]
